@@ -2,3 +2,4 @@ init file
 f1 add
 f1 add 2
 f1 add 3
+f2 add 1
