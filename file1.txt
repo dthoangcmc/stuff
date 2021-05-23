@@ -1,1 +1,7 @@
 init file
+f1 add
+f2 add
+f3 add
+f4 add
+f5 Victor Add
+f6 dthoang override
